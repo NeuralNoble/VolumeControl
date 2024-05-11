@@ -18,4 +18,16 @@ This Python project allows you to control the volume of your system using hand g
 
    ```bash
    git clone https://github.com/NeuralNoble/VolumeControl
-```
+    ```
+3. **Install the required libraries using pip** :
+   ```bash
+   pip install opencv-python numpy mediapipe osascript
+   ```
+
+4. **Run the Program:** Execute the volume_control.py script:
+   ```bash
+   python VolumeHandControl.py
+   ```
+
+
+
